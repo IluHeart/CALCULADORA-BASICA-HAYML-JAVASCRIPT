@@ -1,0 +1,17 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align : center;
+}
+
+input {
+    display: block;
+    width: 30%;
+    /* ES PORTANTE QUE MARGIN BOTTOM VAYA ABAJO DE MARGIN */
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+#calcular {
+    width: 100px;
+}
+
